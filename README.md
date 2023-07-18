@@ -1,4 +1,4 @@
-### I'm Yash, Great to see you heere!👋
+### I'm Yash, Great to see you here!👋
 
 <!--
 **yashyegare/yashyegare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
