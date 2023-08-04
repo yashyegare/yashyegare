@@ -45,4 +45,4 @@ Yash Yegare</a></h1>
                   
 <h1 align="center">Holopin Badges 🦖</h1>
 
-[![@chiragagg5k's Holopin board](https://holopin.me/@yashyegare_)](https://www.holopin.io/@yashyegare_#badges)
+[![@yashyegare_'s Holopin board](https://holopin.me/@yashyegare_)](https://www.holopin.io/@yashyegare_#badges)
