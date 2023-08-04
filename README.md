@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/yashyegare/" target="blank">
 Yash Yegare</a></h1>
-<h3 align="center">A passionate Web Developer&#127470;&#127475</h3>
+<h3 align="center">A passionate Web Developer127470;&#127475</h3>
 
 <br />
 
