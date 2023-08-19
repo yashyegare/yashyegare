@@ -11,7 +11,7 @@ Yash Yegare</a></h1>
 
 - 🔭 I’m currently studying at <a href="https://aissmsioit.org/" target="blank">AISSMS IOIT</a>
 
-- 🌱 I’m currently learning about Web development and Open Source.
+- 🌱 I’m currently learning about Web development and DevOps.
 
 - 📫 How to reach me **yash.yegare0810@gmail.com**
 
