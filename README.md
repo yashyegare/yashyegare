@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/yashyegare/" target="blank">
+/* <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/yashyegare/" target="blank">
 Yash Yegare</a></h1>
 <h3 align="center">A passionate Web Developer</h3>
 
@@ -41,5 +41,5 @@ Yash Yegare</a></h1>
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yashyegare&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![yashyegare's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yashyegare&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=yashyegare&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
-<br />
+<br  /> */
 
