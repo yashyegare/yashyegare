@@ -43,8 +43,8 @@ Yash Yegare</a></h1>
 </div>
 <br  /> -->
 
-<h1 align="center">Hi 👋, I'm Yash Yegare</h1>
-<h3 align="center">M.Tech @ COEP Technological University | Computer Science Engineer</h3>
+<h1 align="center">Hi 👋, I'm Yash </h1>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yashyegare&label=Profile%20Views&color=0e75b6&style=flat" />
