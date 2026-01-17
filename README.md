@@ -43,3 +43,51 @@ Yash Yegare</a></h1>
 </div>
 <br  /> -->
 
+<h1 align="center">Hi 👋, I'm Yash Yegare</h1>
+<h3 align="center">M.Tech @ COEP Technological University | Computer Science Engineer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yashyegare&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+- 🎓 M.Tech student at **COEP Technological University**
+- 💻 Computer Science graduate
+- ⚙️ Interested in **backend systems, automation, and scalable software**
+- 🧠 Focused on **clean code, system design, and fundamentals**
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** C/C++, Java, Python, JavaScript  
+**Backend & Web:** Node.js, Express, REST APIs, HTML, CSS, React (Basics)  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, GitHub, Linux, Docker (Basics), VS Code
+
+---
+
+## 🎯 Current Focus
+- Strengthening **OS, DBMS, CN, DSA**
+- Building **production-oriented backend projects**
+- Exploring **system design & automation**
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashyegare&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashyegare&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 📫 Connect
+- GitHub: [github.com/yashyegare](https://github.com/yashyegare)
+- LinkedIn: *(add)*
+- Email: *(optional)*
+
+⭐ *Star repositories if you find them useful*
+
+
