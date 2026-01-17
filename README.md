@@ -52,40 +52,5 @@ Yash Yegare</a></h1>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 M.Tech student at **COEP Technological University**
-- ⚙️ Interested in **backend systems, automation, and scalable software**
-
----
-
-## 🛠️ Tech Stack
-**Languages:** C/C++, Java, Python, JavaScript  
-**Backend & Web:** Node.js, Express, REST APIs, HTML, CSS, React (Basics)  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, GitHub, Linux, Docker (Basics), VS Code
-
----
-
-## 🎯 Current Focus
-- Strengthening **OS, DBMS, CN, DSA**
-- Building **production-oriented backend projects**
-- Exploring **system design & automation**
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashyegare&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashyegare&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-## 📫 Connect
-- GitHub: [github.com/yashyegare](https://github.com/yashyegare)
-- LinkedIn: *(add)*
-- Email: *(optional)*
-
-⭐ *Star repositories if you find them useful*
 
 
