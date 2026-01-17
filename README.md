@@ -54,9 +54,7 @@ Yash Yegare</a></h1>
 
 ## 👨‍💻 About Me
 - 🎓 M.Tech student at **COEP Technological University**
-- 💻 Computer Science graduate
 - ⚙️ Interested in **backend systems, automation, and scalable software**
-- 🧠 Focused on **clean code, system design, and fundamentals**
 
 ---
 
