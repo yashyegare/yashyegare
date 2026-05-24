@@ -3,6 +3,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yashyegare&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://yashyegare.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 <p align="center">
@@ -28,6 +31,7 @@
 
 ### 👨‍💻 About Me
 
+- 🌐 Check out my **[Personal Portfolio Website](https://yashyegare.vercel.app/)**
 - 🎓 Pursuing my **M.Tech** at **COEP Technological University, Pune**
 - 💻 Experienced in **Web Development**, with a growing focus on **Data Engineering, Cloud architecture, and DevOps**.
 - 📫 Reach out to me at: **tbzyash1@gmail.com**
@@ -36,13 +40,11 @@
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Frameworks:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Languages & Frameworks:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-**Data & Cloud / DevOps:**  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Data & Cloud / DevOps:** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
