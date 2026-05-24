@@ -1,56 +1,62 @@
-<!-- <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/yashyegare/" target="blank">
-Yash Yegare</a></h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Yash Yegare</h1>
+<h3 align="center">Full-Stack Web Developer | Data & Cloud Enthusiast</h3>
 
-<br />
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
-  
-</a>
-
-- 🔭 I’m currently studying at <a href="https://aissmsioit.org/" target="blank">AISSMS IOIT</a>
-
-- 🌱 I’m currently learning about Web development and DevOps.
-
-- 📫 How to reach me **yash.yegare0810@gmail.com**
-
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/yashyegare/">
-   <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/yashyegare">
-  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-  <a style="margin-left: 10px;" target="_blank" href="">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/yashyegare_/">
-   <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-  <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/WhysooYash">
-   <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-  <a style="margin-left: 10px;" target="_blank" href="">
-    <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-      </div>
+  <img src="https://komarev.com/ghpvc/?username=yashyegare&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-<br />
-<br />
-                                                               
-<div align="center">
-<h1 align="center">Github Stats⚡️</h1>
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yashyegare&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![yashyegare's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yashyegare&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=yashyegare&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-<br  /> -->
-
-<h1 align="center">Hi 👋, I'm Yash </h1>
-
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashyegare&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://www.linkedin.com/in/yashyegare/" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" style="margin-right: 10px;">
+  </a>
+  <a href="https://github.com/yashyegare" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub" style="margin-right: 10px;">
+  </a>
+  <a href="https://twitter.com/WhysooYash" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" alt="Twitter" style="margin-right: 10px;">
+  </a>
+  <a href="https://www.instagram.com/yashyegare_/" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram">
+  </a>
 </p>
 
 ---
 
+<div align="center">
+  <img align="right" alt="Coding GIF" width="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
+</div>
 
+### 👨‍💻 About Me
 
+- 🎓 Pursuing my **M.Tech** at **COEP Technological University, Pune**
+- 💻 Experienced in **Web Development**, with a growing focus on **Data Engineering, Cloud architecture, and DevOps**.
+- 🤖 Previously worked on Object Detection (Faster R-CNN) during my undergrad.
+- 🏎️ **Fun Fact:** I'm a massive Formula 1 fan and enjoy building data projects around the sport!
+- 📫 Reach out to me at: **yash.yegare0810@gmail.com**
+
+<br/>
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Data & Cloud / DevOps:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+<br/>
+
+### ⚡ GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yashyegare&theme=tokyonight&layout=compact" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yashyegare&show_icons=true&theme=tokyonight&rank_icon=github" alt="Yash's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=yashyegare&theme=tokyonight" alt="GitHub Streak" />
+</div>
