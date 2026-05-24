@@ -30,8 +30,6 @@
 
 - 🎓 Pursuing my **M.Tech** at **COEP Technological University, Pune**
 - 💻 Experienced in **Web Development**, with a growing focus on **Data Engineering, Cloud architecture, and DevOps**.
-- 🤖 Previously worked on Object Detection (Faster R-CNN) during my undergrad.
-- 🏎️ **Fun Fact:** I'm a massive Formula 1 fan and enjoy building data projects around the sport!
 - 📫 Reach out to me at: **yash.yegare0810@gmail.com**
 
 <br/>
