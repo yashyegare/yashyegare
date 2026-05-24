@@ -12,9 +12,6 @@
   <a href="https://www.linkedin.com/in/yashyegare/" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" style="margin-right: 10px;">
   </a>
-  <a href="https://github.com/yashyegare" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub" style="margin-right: 10px;">
-  </a>
   <a href="https://twitter.com/WhysooYash" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" alt="Twitter" style="margin-right: 10px;">
   </a>
