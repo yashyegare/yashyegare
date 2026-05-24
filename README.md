@@ -30,7 +30,7 @@
 
 - 🎓 Pursuing my **M.Tech** at **COEP Technological University, Pune**
 - 💻 Experienced in **Web Development**, with a growing focus on **Data Engineering, Cloud architecture, and DevOps**.
-- 📫 Reach out to me at: **yash.yegare0810@gmail.com**
+- 📫 Reach out to me at: **tbzyash1@gmail.com**
 
 <br/>
 
