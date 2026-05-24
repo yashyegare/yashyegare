@@ -30,7 +30,7 @@
 
 - 🎓 Pursuing my **M.Tech** at **COEP Technological University, Pune**
 - 💻 Experienced in **Web Development**, with a growing focus on **Data Engineering, Cloud architecture, and DevOps**.
-- 📫 Reach out to me at: **tbzyash1@gmail.com**
+- 📫 Reach out to me at: **yash.yegare0810@gmail.com**
 
 <br/>
 
@@ -40,10 +40,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Data & Cloud / DevOps:**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -55,8 +55,8 @@
 ### ⚡ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yashyegare&theme=tokyonight&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yashyegare&theme=tokyonight&layout=compact" alt="Top Languages" />
   <br/><br/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yashyegare&show_icons=true&theme=tokyonight&rank_icon=github" alt="Yash's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=yashyegare&show_icons=true&theme=tokyonight&rank_icon=github" alt="Yash's GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=yashyegare&theme=tokyonight" alt="GitHub Streak" />
 </div>
