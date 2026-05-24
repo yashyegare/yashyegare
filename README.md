@@ -1,61 +1,48 @@
-<h1 align="center">Hi 👋, I'm Yash Yegare</h1>
-<h3 align="center">Full-Stack Web Developer | Data & Cloud Enthusiast</h3>
+<h1 align="center">Yash Yegare</h1>
+<h3 align="center">Full-Stack Developer | Data Engineer | Cloud & MLOps</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashyegare&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://yashyegare.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yashyegare/" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" style="margin-right: 10px;">
-  </a>
-  <a href="https://twitter.com/WhysooYash" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" alt="Twitter" style="margin-right: 10px;">
-  </a>
-  <a href="https://www.instagram.com/yashyegare_/" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram">
-  </a>
+  <a href="https://yashyegare.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/yashyegare/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/yashyegare"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:tbzyash1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-<div align="center">
-  <img align="right" alt="Coding GIF" width="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
-</div>
-
 ### 👨‍💻 About Me
 
-- 🌐 Check out my **[Personal Portfolio Website](https://yashyegare.vercel.app/)**
-- 🎓 Pursuing my **M.Tech** at **COEP Technological University, Pune**
-- 💻 Experienced in **Web Development**, with a growing focus on **Data Engineering, Cloud architecture, and DevOps**.
-- 📫 Reach out to me at: **tbzyash1@gmail.com**
+I am an **M.Tech student at COEP Technological University, Pune**, specializing in building scalable web applications, robust data pipelines, and cloud-native architectures. 
+
+- 🔭 **Focus Areas:** Full-Stack Development, Data Engineering, and DevOps/MLOps.
+- 🏗️ **Currently Building:** End-to-end data platforms and exploring Kubernetes & Docker deployments.
+- 🌐 **Portfolio:** [yashyegare.vercel.app](https://yashyegare.vercel.app/)
 
 <br/>
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Infrastructure
 
-**Languages & Frameworks:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+**Languages & Frameworks:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Data & Cloud / DevOps:** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+**Data, Cloud & DevOps:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 <br/>
 
-### ⚡ GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yashyegare&theme=tokyonight&layout=compact" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=yashyegare&show_icons=true&theme=tokyonight&rank_icon=github" alt="Yash's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=yashyegare&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=yashyegare&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Yash's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=yashyegare&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yashyegare&theme=transparent&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
