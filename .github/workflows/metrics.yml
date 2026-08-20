@@ -53,5 +53,4 @@ jobs:
           config_display: regular
           base: ""
           plugin_calendar: yes
-          plugin_calendar_limit: 52
           plugin_calendar_streaks: yes
