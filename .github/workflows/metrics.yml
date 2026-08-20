@@ -21,6 +21,6 @@ jobs:
           filename: metrics.stats.svg
           theme: transparent
           config_display: regular
-          config_order: base.header, base.activity, base.community, base.metadata
-          base: header, activity, community, metadata
+          config_order: base.header, base.metadata
+          base: header, metadata
           plugin_achievements: no
