@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-Software developer with 1+ years of experience building robust web applications, currently pursuing an **M.Tech at COEP Technological University, Pune (Class of '27)**.
+Software developer with 2+ years of experience building robust web applications, currently pursuing an **M.Tech at COEP Technological University, Pune (Class of '27)**.
 
 - 🔭 **Focus Areas:** Full-Stack Development, Data Engineering, and Cloud/MLOps
 - 💼 **Experience:** Technical Consultant at a stealth startup, Web Development Intern at NoQs Digital, and Project Intern at Vodafone Idea Ltd.
