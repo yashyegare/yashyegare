@@ -68,7 +68,7 @@ Software developer with 1+ years of experience building robust web applications,
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yashyegare/yashyegare/main/metrics.stats.svg" alt="Overview stats" width="650" />
+  <img src="https://raw.githubusercontent.com/yashyegare/yashyegare/main/metrics.stats.svg" alt="Overview stats" width="480" />
 </div>
 
 <br/>
