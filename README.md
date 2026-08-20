@@ -67,20 +67,9 @@ Software developer with 1+ years of experience building robust web applications,
 
 ### 📊 GitHub Analytics
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/yashyegare/yashyegare/main/metrics.stats.svg" alt="Overview stats" width="100%" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/yashyegare/yashyegare/main/metrics.languages.svg" alt="Top languages" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yashyegare/yashyegare/main/metrics.calendar.svg" alt="Contribution calendar" width="90%" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yashyegare/yashyegare/main/metrics.stats.svg" alt="Overview stats" width="850" />
+</div>
 
 <br/>
 
