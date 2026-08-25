@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | Data Engineer | Cloud & MLOps</h3>
 
 <p align="center">
-  <a href="https://yashyegare.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.yashyegare.me/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/yashyegare/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/yashyegare"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://leetcode.com/u/yashhx18/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
@@ -18,7 +18,7 @@ Software developer with 2+ years of experience building robust web applications,
 - 🔭 **Focus Areas:** Full-Stack Development, Data Engineering, and Cloud/MLOps
 - 💼 **Experience:** Technical Consultant at a stealth startup, Web Development Intern at NoQs Digital, and Project Intern at Vodafone Idea Ltd.
 - 🏗️ **Currently Building:** End-to-end data platforms and exploring Kubernetes & Docker deployments
-- 🌐 **Portfolio:** [yashyegare.vercel.app](https://yashyegare.vercel.app/)
+- 🌐 **Portfolio:** [yashyegare.vercel.app](https://www.yashyegare.me/)
 - 🗣️ **Languages:** Marathi (Native), English & Hindi (Professional), Kannada (Intermediate)
 
 <br/>
