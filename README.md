@@ -8,7 +8,7 @@
 
 <br/>
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a software developer who enjoys building systems end to end, from the API layer down to the data pipelines and infrastructure that keep them running.
 
