@@ -4,10 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Software+Developer;Data+Engineering+%26+Cloud+%2F+MLOps;M.Tech+%40+COEP+Technological+University" alt="Typing SVG" />
 
-<a href="https://www.yashyegare.me/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/yashyegare/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/yashhx18/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-<a href="mailto:tbzyash1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.yashyegare.me/"><img src="https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/yashyegare/"><img src="https://img.shields.io/badge/LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>&nbsp;
+<a href="https://github.com/yashyegare"><img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+<a href="mailto:tbzyash1@gmail.com"><img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 
 </div>
 
@@ -41,7 +41,7 @@ More about me at [yashyegare.me](https://www.yashyegare.me/)
 
 Open to interesting problems, collaborations, and conversations about tech.
 
-<a href="mailto:tbzyash1@gmail.com"><img src="https://img.shields.io/badge/tbzyash1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/yashyegare/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:tbzyash1@gmail.com"><img src="https://img.shields.io/badge/tbzyash1@gmail.com-1F2937?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/yashyegare/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
 
 </div>
