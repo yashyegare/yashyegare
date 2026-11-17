@@ -33,12 +33,15 @@ More about me at [yashyegare.me](https://www.yashyegare.me/)
 
 <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 
-### GitHub Stats
-
-<img src="https://raw.githubusercontent.com/yashyegare/yashyegare/main/metrics.stats.svg" alt="GitHub stats" width="480"/>
-
 ---
 
 <div align="center">
-  <sub>📫 Reach me at <a href="mailto:tbzyash1@gmail.com">tbzyash1@gmail.com</a></sub>
+
+### Let's Connect
+
+Open to interesting problems, collaborations, and conversations about tech.
+
+<a href="mailto:tbzyash1@gmail.com"><img src="https://img.shields.io/badge/tbzyash1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/yashyegare/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
 </div>
